@@ -1,6 +1,7 @@
 ### .bashrc
 
 export EDITOR="vim"
+export PATH=$PATH:~/local/bin
 
 alias tmux="tmux -2"
 alias gdb="gdb -q"
